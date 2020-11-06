@@ -13,7 +13,7 @@ public class RegistrationLoginApplication {
 	}
 
 	public void myfunction() {
-		
+		int val = 90;
 	}
 
 }
