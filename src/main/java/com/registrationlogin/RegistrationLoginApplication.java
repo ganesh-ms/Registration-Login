@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RegistrationLoginApplication {
-	// Madhu comment
+	//Entry level code
 	public static void main(String[] args) {
 		SpringApplication.run(RegistrationLoginApplication.class, args);
 	}
